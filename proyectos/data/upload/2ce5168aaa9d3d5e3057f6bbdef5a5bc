@@ -1,0 +1,50 @@
+Cliente,Proyecto,Fase ,Proceso,Tarea,Descripcion,Fecha Plan Inicio,Fecha Final Plan,Responsable
+Televida,,,,,,,,
+,Bolivia,,,,,,,21;15;22;17;18;19;25:20
+,,00-Iniciación,,,,,,
+,,,Inception,,,,,
+,,,,Setup de ambiente de Integracion Continua (Core + gateway + Desarollos nuevos),,11/1/2017,11/7/2017,17
+,,,,BRD V1,,11/3/2017,11/7/2017,18
+,,,,Documetno de configuración  Kinetics,,11/7/2017,11/8/2017,19
+,,,,Documento de Configuracion  Kanel,,11/7/2017,11/8/2017,26
+,,,,Configurar cuenta SMPP para integracion con kinetic cuenta requerida por kinetic para la comunicación con televida,,11/8/2017,11/8/2017,17
+,,,,configurar la plataforma kinetic(servicios+endpoints+mensajes) ,,11/16/2017,11/16/2017,22
+,,01-Planeación,,,,,,
+,,,Sprint 0,,,,,
+,,,,Gantt  Aprobado,,11/3/2017,11/7/2017,22
+,,,,Documento HLD V1,,11/3/2017,11/7/2017,15
+,,,,Documento IMP V1,,11/3/2017,11/7/2017,25
+,,,,Documento de Analisis V1,,11/3/2017,11/7/2017,22
+,,02-Ejecución,,,,,,
+,,,Sprint 1,,,,,
+,,,,Documento de Analisis V2,,11/10/2017,11/10/2017,22
+,,,,Analisis del componente televida-vivabolivia-interactionreceiver-ws-api,,11/13/2017,11/13/2017,22;15
+,,,,diseño y documentacion de como funciona,,11/13/2017,11/13/2017,22
+,,,,Desarrollo del componente televida-vivabolivia-interactionreceiver-ws-api,,11/13/2017,11/15/2017,22
+,,,,Pruebas Unitarias,,11/16/2017,11/16/2017,22
+,,,,Pruebas de integracion y/o comunicación de televida-vivabolivia-interactionreceiver-ws-api con la plataforma Kinetic,,11/16/2017,11/16/2017,22
+,,,,integracion de la landing page dentro de kinetic,,11/17/2017,11/17/2017,
+,,,Sprint  2,,,,,
+,,,,Analisis del componente de Procesos de Interacción,,11/17/2017,11/17/2017,22;15
+,,,,diseño y documentacion de como funciona,,11/17/2017,11/17/2017,22
+,,,,Desarrollo del componente televida-interactionreceiver-ws-api,,11/17/2017,11/20/2017,22
+,,,,Pruebas Unitarias,,11/21/2017,11/21/2017,22
+,,,,Integrar los procesos de interaccion (Sprint 2) y el componente de notificaciones REST (Sprint 1),,11/21/2017,11/21/2017,22
+,,,Sprint 3,,,,,
+,,,,Analisis del componente de cobro,,11/21/2017,11/22/2017,22;15
+,,,,diseño y documentacion de como funciona,,11/22/2017,11/22/2017,22
+,,,,Desarrollo del componente televida-vivabolivia-billingdlr-adapter,,11/22/2017,11/24/2017,22
+,,,,Pruebas Unitarias,,11/24/2017,11/24/2017,22
+,,,Sprint 4,,,,,
+,,,,Analisis del componente de televida-interactionreceiver-daemon,,11/24/2017,11/24/2017,22;15
+,,,,diseño y documentacion de como funciona,,11/27/2017,11/27/2017,22
+,,,,Desarrollo del componente de televida-interactionreceiver-daemon,,11/27/2017,11/28/2017,22
+,,,,Pruebas Unitarias,,11/28/2017,11/28/2017,22
+,,,,,,,,
+,,,Integracion + QA Version 1,,,,,
+,,,,Integración y despliegue en QA V1,,11/29/2017,11/29/2017,17
+,,,,Ciclo 1 - COMP 1 y 2 ,,11/30/2017,11/30/2017,21
+,,,Integracion + QA Version 2,,,,,
+,,,,Integración y despliegue en QA V2,,12/1/2017,12/1/2017,17
+,,,,"Ciclo 2 - Regresión COMP 1, 2 + 3",,12/2/2017,12/2/2017,21
+,,,,"Ciclo 3 - regresión COMP 1,2,3 + 4",,12/5/2017,12/5/2017,21

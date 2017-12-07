@@ -1,0 +1,266 @@
+[05/Oct/2016:21:49:42](phprojekt)0: 
+[05/Oct/2016:21:49:42](phprojekt)1: 
+[05/Oct/2016:21:51:00](phprojekt)Headers: Array
+(
+    [Content-Length] => 66
+    [Content-Type] => application/x-www-form-urlencoded
+    [User-Agent] => Zend_Http_Client
+    [Accept-Encoding] => gzip, deflate
+    [Connection] => close
+    [Host] => alltic.co
+)
+
+[05/Oct/2016:22:06:07](phprojekt)Headers: Array
+(
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [PWD] => /usr/local/cpanel/cgi-sys
+    [SHLVL] => 0
+    [PHP_FCGI_MAX_REQUESTS] => 5000
+    [SCRIPT_NAME] => /timetracker/api/v1/phprojekt.php
+    [REQUEST_URI] => /timetracker/api/v1/phprojekt.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 42267
+    [SCRIPT_FILENAME] => /home/alltic/public_html/timetracker/api/v1/phprojekt.php
+    [SERVER_ADMIN] => webmaster@alltic.co
+    [CONTEXT_DOCUMENT_ROOT] => /home/alltic/public_html
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/alltic/public_html
+    [REMOTE_ADDR] => 192.186.194.71
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 192.186.194.71
+    [SERVER_NAME] => alltic.co
+    [SERVER_SOFTWARE] => Apache/2.4.23
+    [SERVER_SIGNATURE] => 
+    [LD_LIBRARY_PATH] => /usr/local/apache/lib
+    [CONTENT_LENGTH] => 66
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Zend_Http_Client
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_CONNECTION] => close
+    [HTTP_HOST] => alltic.co
+    [SSL_TLS_SNI] => alltic.co
+    [HTTPS] => on
+    [UNIQUE_ID] => V-V5T7ioyMAAAFBXoaUAAADW
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /timetracker/api/v1/phprojekt.php
+    [REQUEST_TIME_FLOAT] => 1475705167.6213
+    [REQUEST_TIME] => 1475705167
+)
+
+[05/Oct/2016:22:09:21](phprojekt)Headers: Array
+(
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [PWD] => /usr/local/cpanel/cgi-sys
+    [SHLVL] => 0
+    [PHP_FCGI_MAX_REQUESTS] => 5000
+    [SCRIPT_NAME] => /timetracker/api/v1/phprojekt.php
+    [REQUEST_URI] => /timetracker/api/v1/phprojekt.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 43237
+    [SCRIPT_FILENAME] => /home/alltic/public_html/timetracker/api/v1/phprojekt.php
+    [SERVER_ADMIN] => webmaster@alltic.co
+    [CONTEXT_DOCUMENT_ROOT] => /home/alltic/public_html
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/alltic/public_html
+    [REMOTE_ADDR] => 192.186.194.71
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 192.186.194.71
+    [SERVER_NAME] => alltic.co
+    [SERVER_SOFTWARE] => Apache/2.4.23
+    [SERVER_SIGNATURE] => 
+    [LD_LIBRARY_PATH] => /usr/local/apache/lib
+    [CONTENT_LENGTH] => 66
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Zend_Http_Client
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_CONNECTION] => close
+    [HTTP_HOST] => alltic.co
+    [SSL_TLS_SNI] => alltic.co
+    [HTTPS] => on
+    [UNIQUE_ID] => V-V6EbioyMAAABdQMK8AAAHH
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /timetracker/api/v1/phprojekt.php
+    [REQUEST_TIME_FLOAT] => 1475705361.3249
+    [REQUEST_TIME] => 1475705361
+)
+
+[05/Oct/2016:22:17:49](phprojekt)Data: Array
+(
+    [client_name] => Pr16
+    [client_desc] => 
+
+)
+
+[05/Oct/2016:22:17:49](phprojekt)Headers: Array
+(
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [PWD] => /usr/local/cpanel/cgi-sys
+    [SHLVL] => 0
+    [PHP_FCGI_MAX_REQUESTS] => 5000
+    [SCRIPT_NAME] => /timetracker/api/v1/phprojekt.php
+    [REQUEST_URI] => /timetracker/api/v1/phprojekt.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 45462
+    [SCRIPT_FILENAME] => /home/alltic/public_html/timetracker/api/v1/phprojekt.php
+    [SERVER_ADMIN] => webmaster@alltic.co
+    [CONTEXT_DOCUMENT_ROOT] => /home/alltic/public_html
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/alltic/public_html
+    [REMOTE_ADDR] => 192.186.194.71
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 192.186.194.71
+    [SERVER_NAME] => alltic.co
+    [SERVER_SOFTWARE] => Apache/2.4.23
+    [SERVER_SIGNATURE] => 
+    [LD_LIBRARY_PATH] => /usr/local/apache/lib
+    [CONTENT_LENGTH] => 66
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Zend_Http_Client
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_CONNECTION] => close
+    [HTTP_HOST] => alltic.co
+    [SSL_TLS_SNI] => alltic.co
+    [HTTPS] => on
+    [UNIQUE_ID] => V-V8DbioyMAAADvRy-kAAAFH
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /timetracker/api/v1/phprojekt.php
+    [REQUEST_TIME_FLOAT] => 1475705869.5841
+    [REQUEST_TIME] => 1475705869
+)
+
+[05/Oct/2016:22:23:18](phprojekt)Data: Array
+(
+    [client_name] => Pr17
+    [client_desc] => 
+
+)
+
+[05/Oct/2016:22:23:18](phprojekt)Headers: Array
+(
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [PWD] => /usr/local/cpanel/cgi-sys
+    [SHLVL] => 0
+    [PHP_FCGI_MAX_REQUESTS] => 5000
+    [SCRIPT_NAME] => /timetracker/api/v1/phprojekt.php
+    [REQUEST_URI] => /timetracker/api/v1/phprojekt.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 46791
+    [SCRIPT_FILENAME] => /home/alltic/public_html/timetracker/api/v1/phprojekt.php
+    [SERVER_ADMIN] => webmaster@alltic.co
+    [CONTEXT_DOCUMENT_ROOT] => /home/alltic/public_html
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/alltic/public_html
+    [REMOTE_ADDR] => 192.186.194.71
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 192.186.194.71
+    [SERVER_NAME] => alltic.co
+    [SERVER_SOFTWARE] => Apache/2.4.23
+    [SERVER_SIGNATURE] => 
+    [LD_LIBRARY_PATH] => /usr/local/apache/lib
+    [CONTENT_LENGTH] => 66
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Zend_Http_Client
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_CONNECTION] => close
+    [HTTP_HOST] => alltic.co
+    [SSL_TLS_SNI] => alltic.co
+    [HTTPS] => on
+    [HTTP_AUTHORIZATION] => Basic aWJhcm9uYTo4OGJkYjlhMWU2MDkyMDM4OTI4YjdlMDg0Y2FlNzBhMA==
+    [UNIQUE_ID] => V-V9VrioyMAAAFBXr0cAAADI
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /timetracker/api/v1/phprojekt.php
+    [PHP_AUTH_USER] => ibarona
+    [PHP_AUTH_PW] => 88bdb9a1e6092038928b7e084cae70a0
+    [REQUEST_TIME_FLOAT] => 1475706198.52
+    [REQUEST_TIME] => 1475706198
+)
+
+[05/Oct/2016:22:24:06](phprojekt)Server: Array
+(
+    [PATH] => /sbin:/usr/sbin:/bin:/usr/bin
+    [PWD] => /usr/local/cpanel/cgi-sys
+    [SHLVL] => 0
+    [PHP_FCGI_MAX_REQUESTS] => 5000
+    [SCRIPT_NAME] => /timetracker/api/v1/phprojekt.php
+    [REQUEST_URI] => /timetracker/api/v1/phprojekt.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 47035
+    [SCRIPT_FILENAME] => /home/alltic/public_html/timetracker/api/v1/phprojekt.php
+    [SERVER_ADMIN] => webmaster@alltic.co
+    [CONTEXT_DOCUMENT_ROOT] => /home/alltic/public_html
+    [CONTEXT_PREFIX] => 
+    [REQUEST_SCHEME] => https
+    [DOCUMENT_ROOT] => /home/alltic/public_html
+    [REMOTE_ADDR] => 192.186.194.71
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 192.186.194.71
+    [SERVER_NAME] => alltic.co
+    [SERVER_SOFTWARE] => Apache/2.4.23
+    [SERVER_SIGNATURE] => 
+    [LD_LIBRARY_PATH] => /usr/local/apache/lib
+    [CONTENT_LENGTH] => 66
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Zend_Http_Client
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_CONNECTION] => close
+    [HTTP_HOST] => alltic.co
+    [SSL_TLS_SNI] => alltic.co
+    [HTTPS] => on
+    [HTTP_AUTHORIZATION] => Basic aWJhcm9uYTo2Mjc1ZjQyNDBhYmE1YWI4NzVkNzdiY2EwMDAxOWU2ZA==
+    [UNIQUE_ID] => V-V9hrioyMAAABbC4@QAAAEN
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /timetracker/api/v1/phprojekt.php
+    [PHP_AUTH_USER] => ibarona
+    [PHP_AUTH_PW] => 6275f4240aba5ab875d77bca00019e6d
+    [REQUEST_TIME_FLOAT] => 1475706246.9508
+    [REQUEST_TIME] => 1475706246
+)
+
+[05/Oct/2016:22:24:06](phprojekt)Headers: Array
+(
+    [Content-Length] => 66
+    [Content-Type] => application/x-www-form-urlencoded
+    [User-Agent] => Zend_Http_Client
+    [Accept-Encoding] => gzip, deflate
+    [Connection] => close
+    [Host] => alltic.co
+    [Authorization] => Basic aWJhcm9uYTo2Mjc1ZjQyNDBhYmE1YWI4NzVkNzdiY2EwMDAxOWU2ZA==
+)
+
+[05/Oct/2016:22:25:39](phprojekt)Headers: Array
+(
+    [0] => ibarona
+    [1] => a07cfa4129c29e99df031a93aa28c62b
+)
+
+[05/Oct/2016:22:27:58](phprojekt)Headers: Array
+(
+    [0] => ibarona
+    [1] => 17c7a7398fc98e35f6e18f3d9dc72795
+)
+
+[05/Oct/2016:22:31:12](phprojekt)Headers: Array
+(
+    [0] => ibarona
+    [1] => cd113da9329b9587ac6eb13cc831e2e5
+)
+
